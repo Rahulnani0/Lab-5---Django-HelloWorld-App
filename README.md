@@ -1,2 +1,19 @@
-# Lab-5---Django-HelloWorld-App
-In this lab, you will develop a simple Hello World Django app. The app consists of one route and returns a JSON object with Hello World message Response JSON should look like below {“Message”: “Hello World!”}
+## Hellow World Django App
+### How to run/start the app
+First you'll need to clone this repository.
+```git
+git clone url
+```
+Then you need to have django installed on you machine. If not you can install django with the following command
+``` 
+pip install django
+```
+After installing django open the terminal in the project folder and run the following command to start the app
+```
+python manage.py runserver
+```
+This will start a development server at
+```
+http://127.0.0.1:8000/
+```
+To access the JSON response use the link provided to by the app load the above URL to your browser
