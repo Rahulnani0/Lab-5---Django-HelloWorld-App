@@ -2,7 +2,7 @@
 ### How to run/start the app
 First you'll need to clone this repository.
 ```git
-git clone url
+git clone https://github.com/Rahulnani0/Lab-5-Django-HelloWorld-App
 ```
 Then you need to have django installed on you machine. If not you can install django with the following command
 ``` 
